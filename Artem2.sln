@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artem2", "Artem2.csproj", "{4833B0A0-7523-43BE-A3DE-0CC1C5A1580C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "..\Test\Test.csproj", "{D6DE056A-31D5-484B-9E7A-7EEA401D66CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4833B0A0-7523-43BE-A3DE-0CC1C5A1580C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4833B0A0-7523-43BE-A3DE-0CC1C5A1580C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4833B0A0-7523-43BE-A3DE-0CC1C5A1580C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4833B0A0-7523-43BE-A3DE-0CC1C5A1580C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6DE056A-31D5-484B-9E7A-7EEA401D66CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6DE056A-31D5-484B-9E7A-7EEA401D66CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6DE056A-31D5-484B-9E7A-7EEA401D66CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6DE056A-31D5-484B-9E7A-7EEA401D66CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F393C81-AF30-459D-AE5F-89566042C1A8}
+	EndGlobalSection
+EndGlobal

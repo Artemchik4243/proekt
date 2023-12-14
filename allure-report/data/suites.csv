@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Dec 14 15:07:37 MSK 2023","Thu Dec 14 15:07:38 MSK 2023","27","","","","Test.UnitTest1","Test.UnitTest1.Mul","Test.UnitTest1.Mul",""
+"passed","Thu Dec 14 15:07:38 MSK 2023","Thu Dec 14 15:07:38 MSK 2023","0","","","","Test.UnitTest1","Test.UnitTest1.Add","Test.UnitTest1.Add",""
+"passed","Thu Dec 14 15:07:38 MSK 2023","Thu Dec 14 15:07:38 MSK 2023","1","","","","Test.UnitTest1","Test.UnitTest1.Div","Test.UnitTest1.Div",""
+"passed","Thu Dec 14 15:07:38 MSK 2023","Thu Dec 14 15:07:38 MSK 2023","1","","","","Test.UnitTest1","Test.UnitTest1.Sub","Test.UnitTest1.Sub",""
